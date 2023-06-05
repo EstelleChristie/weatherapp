@@ -1,0 +1,44 @@
+body {
+  background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%);
+}
+button{ margin : 10px;
+
+background: #537895;
+color: #ffff;
+padding: 5px 10px;
+border: #537896; }
+
+h2 {
+  text-transform: capitalize;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+li {
+  display: inline;
+  margin: 0 30px;
+}
+ 
+
+
+ .weather-app {
+  border: 1px solid #ffff;
+  padding: 30px;
+  margin: 50px auto;
+border-radius: 10px;
+max-width: 700px;
+background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%)
+ }
+
+ .forcast{
+  border: 1px solid #ffff;
+  border-radius: 6px;
+  padding: 8px;
+ }
+
+ .bi-bi-sunset {
+  fill: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+
+ }
